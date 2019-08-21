@@ -22,5 +22,5 @@ def find_the_cheese(foods)
   foods.find {|f| f == cheese_types}
   
   
-end 
+end  
 
